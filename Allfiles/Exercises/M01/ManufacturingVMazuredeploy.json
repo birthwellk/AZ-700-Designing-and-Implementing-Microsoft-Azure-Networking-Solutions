@@ -17,7 +17,7 @@
       },
       "vmSize": {
         "type": "string",
-                "defaultValue": "Standard_D2s_v5",
+                "defaultValue": "Standard_D2s_v7",
                 "allowedValues": [
                     "Standard_D2s_v5",
                     "Standard_D2s_v6",
